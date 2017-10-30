@@ -1,4 +1,4 @@
 paypal.php
 vendor/
 composer.lock
-nbproject/
+nbproject/*
