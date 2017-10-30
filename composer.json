@@ -1,0 +1,18 @@
+{
+    "name": "nitish/paypal",
+    "authors": [
+        {
+            "name": "nitishpeeroo",
+            "email": "nitish.peeroo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+
+            "nitisg\\": "src/"
+        }
+    },
+    "require": {
+        "paypal/rest-api-sdk-php": "^1.12"
+    }
+}
